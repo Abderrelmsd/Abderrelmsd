@@ -7,36 +7,57 @@ Here is some info about me:
 - 📕 Languages:
   - Arabic
   - English
-  
-- 💼 Occupation: Freelance Software Developer
+
 - 🔍 Searching for: Full-time Job
--   Job roles:
--     Mobile App Developer (Flutter, React Native)
--     Web App Developer (JQuery, React, ExpressJS, VueJS, Angular)
--     Big Data Engineer (Hadoop, Apache Spark)
--     Cloud Developer (GCP, AWS)
--     Data Scientist (Python, R)
+ 
+- 🏠 Location: Dubai, United Arab Emirates
 
-- 💻Programming Languages:
-  - C
-  - C++
-  - C#
-  - R
-  - Java
-  - Python
-  - Dart
-  - Javascript/Typescript
-
-- 💻Frameworks:
-  - Flutter
-  - React
-  - Angular
-  - VueJS
-  - JQuery
-  - ExpressJS
-  
 - 👀 Interested in:
-  - Web development
-  - Cross-platform development
+  - Mobile/Web App Development
+  - Data Science
   - Big Data Engineering
-  - Cloud Computing
+  - Cloud App Development
+- 💻 Technical Knowledge:
+  - Front-end:
+    - HTML
+    - CSS
+    - JavaScript/TypeScript
+    - JQuery
+    - React
+    - Angular
+    - VueJS
+    - ExpressJS
+
+  - Back-end:
+    - C
+    - C++
+    - C#
+    - Java
+    - Scala
+    - Python
+    - Dart
+    - Node
+
+  - Databases:
+    - MySQL
+    - SQL Server
+    - MongoDB
+    - Redis
+    - Firebase Firestore
+
+  - Mobile Apps:
+    - Flutter
+    - React Native
+
+  - Data Science:
+    - Python
+    - R
+
+  - Cloud Providers:
+    - Google Cloud Platform
+    - Amazon Web Services
+
+  - Big Data:
+    - Hadoop
+    - Spark
+    - Databricks
