@@ -13,7 +13,8 @@ Here is some info about me:
 - 🏠 Location: Dubai, United Arab Emirates
 
 - 👀 Interested in:
-  - Mobile/Web App Development
+  - Mobile Engineering
+  - Web Development
   - Data Science
   - Big Data Engineering
   - Cloud App Development
@@ -22,11 +23,11 @@ Here is some info about me:
     - HTML
     - CSS
     - JavaScript/TypeScript
+    - Bootstrap
     - JQuery
     - React
-    - Angular
-    - VueJS
     - ExpressJS
+    - NestJS
 
   - Back-end:
     - C
