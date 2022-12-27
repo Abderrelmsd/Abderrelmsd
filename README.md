@@ -1,16 +1,15 @@
-👋 Hi, my name is Abderrahmane and I am a graduate from
-Al Akhawayn Unviersity with a bachelor's degree in 
-Computer Science.
+Hello 👋, my name is Abderrahmane and I a passionate software engineer. I graduated from Al Akhawayn Unviersity with a Bachelor of Science in Computer Science.
   
 Here is some info about me:
 
 - 📕 Languages:
   - Arabic
   - English
+  - French
 
-- 🔍 Searching for: Full-time Job
+- 🔍 Searching for: Interesting projects to work on
  
-- 🏠 Location: Dubai, United Arab Emirates
+- 🏠 Location: Tangier, Morocco
 
 - 👀 Interested in:
   - Mobile Engineering
@@ -20,19 +19,15 @@ Here is some info about me:
   - Cloud App Development
 - 💻 Technical Knowledge:
   - Front-end:
-    - HTML
-    - CSS
-    - JavaScript/TypeScript
+    - HTML/CSS/JS/TS
     - Bootstrap
     - JQuery
-    - React
     - ExpressJS
     - NestJS
-
+    - React
+    
   - Back-end:
-    - C
-    - C++
-    - C#
+    - C/C++/C#
     - Java
     - Scala
     - Python
@@ -55,10 +50,10 @@ Here is some info about me:
     - R
 
   - Cloud Providers:
+    - Microsoft Azure
     - Google Cloud Platform
     - Amazon Web Services
 
   - Big Data:
     - Hadoop
     - Spark
-    - Databricks
