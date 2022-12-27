@@ -18,42 +18,12 @@ Here is some info about me:
   - Big Data Engineering
   - Cloud App Development
 - 💻 Technical Knowledge:
-  - Front-end:
-    - HTML/CSS/JS/TS
-    - Bootstrap
-    - JQuery
-    - ExpressJS
-    - NestJS
-    - React
-    
-  - Back-end:
-    - C/C++/C#
-    - Java
-    - Scala
-    - Python
-    - Dart
-    - Node
 
-  - Databases:
-    - MySQL
-    - SQL Server
-    - MongoDB
-    - Redis
-    - Firebase Firestore
-
-  - Mobile Apps:
-    - Flutter
-    - React Native
-
-  - Data Science:
-    - Python
-    - R
-
-  - Cloud Providers:
-    - Microsoft Azure
-    - Google Cloud Platform
-    - Amazon Web Services
-
-  - Big Data:
-    - Hadoop
-    - Spark
+|Front-end|Back-end|Database|Cloud|Mobile|Data Science|Big Data|
+|---------|--------|--------|-----|------|------------|--------|
+|HTML/CSS/JS|C/C++/C#|MySQL|Azure|Flutter|Python|Hadoop|
+|Bootstrap|Java|SQL Server|GCP|React Native|R|Spark|
+|JQuery|Scala|MongoDB|AWS||||
+|ExpressJs|Python|Redis|||||
+|NestJS|Dart|Firestore|||||
+|React|Node||||||
