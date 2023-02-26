@@ -1,6 +1,6 @@
 Hello 👋
 
-My name is Abderrahmane and I'm a passionate software engineer with a Bachelor of Science degree in Computer Science from Al Akhawayn Unviersity in Morocco. I'm focused on quality and speedy delivery of highly reliable and maintainable work while keeping up with deadlines. I love being in this line of work because I'm passionate about technology, design, and innovation. I Possess skills in designing, developing, testing, and troubleshooting.
+My name is Abderrahmane and I'm a passionate software engineer with a Bachelor of Science degree in Computer Science from Al Akhawayn Unviersity in Morocco. I'm focused on quality and speedy delivery of highly reliable and maintainable work while keeping up with deadlines. I love being in this line of work because I'm passionate about technology, design, and innovation. I possess skills in designing, developing, testing, and troubleshooting.
 
 Here is some info about me:
 
@@ -12,8 +12,8 @@ Here is some info about me:
 
 - 🔍 Searching for:
   - Full-time employment
-  - short-term projects
-  - long-term projects
+  - Short-term projects
+  - Long-term projects
 
 - 👀 Interested in:
   - Mobile Engineering
@@ -23,11 +23,9 @@ Here is some info about me:
   - Cloud App Development
 - 💻 Technical Knowledge:
 
-|Front-end|Back-end|Database|Cloud|Mobile|Data Science|Big Data|
-|---------|--------|--------|-----|------|------------|--------|
-|HTML/CSS/JS|C/C++/C#|MySQL|Azure|Flutter|Python|Hadoop|
-|Bootstrap|Java|SQL Server|GCP||R|Spark|
-|JQuery|Python|MongoDB|AWS||||
-|ExpressJs|Node|Redis|||||
-|React|Dart|Firestore|||||
-|NestJS|||||||
+|Front-end|Back-end|Mobile|Database|Containerization|Operating Systems|Testing|Version Control|Cloud|
+|---------|--------|------|--------|----------------|-----------------|-------|---------------|-----|
+|HTML/CSS/JS/TS|NodeJS|Flutter|MySQL|Docker|Windows|Jest|Git|AWS|
+|Bootstrap|Java|React Native|MongoDB|Kubernetes|Linux|Cypress|GitHub|GCP|
+|jQuery|Python||Redis||||||
+|React/Redux|C/C++/C#||Firestore||||||
